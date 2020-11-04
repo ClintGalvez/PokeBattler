@@ -7,8 +7,8 @@
 
 * [About the Project](#about-the-project)
 * [Dictionary Formats](#dictionary-formats)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
+  * [Pokedex Dictionary](#pokedex-dictionary)
+  * [Moves Dictionary](#moves-dictionary)
 
 
 <!-- ABOUT THE PROJECT -->
