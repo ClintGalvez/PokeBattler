@@ -19,7 +19,7 @@ This is for my COMP 1405-Z individual course project.
 <!-- DICTIONARY FORMATS -->
 ## Dictionary Formats
 
-### Pokedex Dictionary
+### Pokedex Dictionary:
 ```sh
 pokedex = {
         "name":
@@ -35,6 +35,7 @@ pokedex = {
             }
     }
 ```
+
 ### Moves Dictionary:
 ```sh
 moves = {
