@@ -1,8 +1,8 @@
 # PokeBattler
  Pokemon Battling Arcade Game
 
-# DICTIONARY FORMATS
-POKEDEX DICTIONARY:
+# Dictionary Formats
+Pokedex Dictionary:
 pokedex = {
         "name":
             {
@@ -17,7 +17,7 @@ pokedex = {
             }
     }
 
-MOVES DICTIONARY:
+Moves Dictionary:
 moves = {
         "name":
             {
