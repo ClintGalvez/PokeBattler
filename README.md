@@ -1,8 +1,26 @@
 # PokeBattler
  Pokemon Battling Arcade Game
 
-# Dictionary Formats
-Pokedex Dictionary:
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Dictionary Formats](#dictionary-formats)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This is for my COMP 1405-Z individual course project.
+
+<!-- DICTIONARY FORMATS -->
+## Dictionary Formats
+
+### Pokedex Dictionary
+```sh
 pokedex = {
         "name":
             {
@@ -16,8 +34,9 @@ pokedex = {
                 "speed": 1
             }
     }
-
-Moves Dictionary:
+```
+### Moves Dictionary:
+```sh
 moves = {
         "name":
             {
@@ -30,3 +49,4 @@ moves = {
                 "gen": "I",
             }
         }
+```
