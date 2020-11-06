@@ -24,7 +24,6 @@ This is for my COMP 1405-Z individual course project.
 pokedex = {
         "name":
             {
-                "name": "name"
                 "types": ["typeOne", "typeTwo"],
                 "total": 6,
                 "health": 1,
@@ -42,6 +41,7 @@ pokedex = {
 moves = {
         "name":
             {
+                "name": "name"
                 "type": "normal",
                 "category": "physical",
                 "contest": "tough",
