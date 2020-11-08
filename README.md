@@ -41,6 +41,7 @@ pokedex = {
 moves = {
         "name":
             {
+                "name": "name"
                 "type": "normal",
                 "category": "physical",
                 "contest": "tough",
