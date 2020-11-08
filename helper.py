@@ -93,6 +93,10 @@ def ReadFile(filename):
 
     return table
 
+def Clear():
+    import os
+    os.system("cls")
+
 if __name__ == "__main__":
     print("Main")
     print(SplitCaps("ChinaTownManGuy"))
